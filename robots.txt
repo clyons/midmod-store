@@ -1,8 +1,4 @@
----
-layout: null
-sitemap: false
----
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://clyons.github.io/sitemap.xml
 User-agent: GPTBot
 Disallow: /
